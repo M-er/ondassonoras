@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="es">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="description" content="">
+	<meta name="author" content="MER">
+	<link rel="shortcut icon" type="image/x-icon" href="img/favicon-16x16.png"/>
+	<title>OndasSonoras</title>
+	<!-- Bootstrap core CSS -->
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<!-- Jquery ui core CSS -->
+	<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+	<!-- Swal Stylesheet File -->
+	<link href="css/sweetalert.css" rel="stylesheet" type="text/css">
+	<!-- Custom styles for this template -->
+	<link href="css/style.css" rel="stylesheet">
+	<!-- Custom styles for dataTable -->
+	<link href="css/dataTable.min.css" rel="stylesheet">
+	<!-- Custom styles for tag Cloud -->
+	<link href="css/jqcloud.css" rel="stylesheet">
+	<!-- Custom styles for tokenfield -->
+	<link href="css/bootstrap-tokenfield.css" rel="stylesheet">
+	<!-- Font awsome -->
+	<link href="css/fontawesome-all.min.css" rel="stylesheet">
+</head>
+<body>
+	<nav style="margin-bottom: 15px;" class="navbar navbar-dark sticky-top bg-dark verde flex-md-nowrap p-0">
+		<div class="col-sm-3 mr-0">		
+			<a id="indexTit" class="navbar-brand" href="#" style="height:50px;width:12em;padding-left:14px;">Ondas Sonoras | Admin</a>
+		</div>
+		<div class="col-sm-8">
+			<div class="topbar">
+				<div class="row">
+					<a id="dash" class="nav-link" href="#" onclick="dashboard()">
+						<i class="fas fa-2x fa-eye"></i>
+						<span style="max-width: 100%;">Inicio</span>
+					</a>
+					<a id="store" class="nav-link" href="#" onclick="store()">
+						<i class="fab fa-2x fa-app-store"></i>
+						<span style="max-width: 100%;">Tienda</span>
+					</a>
+					<a id="inven" class="nav-link" href="#" onclick="inventario()">
+						<i class="fas fa-2x fa-archive"></i>
+						<span style="max-width: 100%;">Inventario</span>
+					</a>
+					<a id="cart" class="nav-link" href="#" onclick="cart()">
+						<i class="fas fa-2x fa-cart-arrow-down"></i>
+						<span style="max-width: 100%;">Carrito</span>
+					</a>
+					<a id="sales" class="nav-link" href="#" onclick="sales()">
+						<i class="fab fa-2x fa-stack-overflow"></i>
+						<span style="max-width: 100%;">Ventas</span>
+					</a>
+				</div>
+			</div>
+		</div>
+		<div class="col-sm-1">
+			<ul class="navbar-nav px-3">
+				<li class="nav-item text-nowrap">
+					<a onclick="doLogout()" class="nav-link float-right" href="#">
+						<i style="color: black;" class="fas fa-2x fa-sign-out-alt"></i>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</nav>
+	<div class="container-fluid">
+		<div class="row">
+			<!--<nav class="col-md-2 d-none d-md-block bg-light sidebar">
+				<div class="sidebar-sticky">
+					<ul class="nav flex-column">
+						<li class="nav-item">
+							<a id="dash" class="nav-link" href="#" onclick="dashboard()">
+								<i class="fas fa-2x fa-eye"></i> Tablero
+							</a>
+						</li>
+						<li class="nav-item">
+							<a id="inven" class="nav-link" href="#" onclick="inventario()">
+								<i class="fas fa-2x fa-archive"></i> Inventario
+							</a>
+						</li>
+						<li class="nav-item">
+							<a id="store" class="nav-link" href="#" onclick="store()">
+								<i class="fab fa-2x fa-app-store"></i> Tienda
+							</a>
+						</li>
+						<li class="nav-item">
+							<a id="cart" class="nav-link" href="#" onclick="cart()">
+								<i class="fas fa-2x fa-cart-arrow-down"></i> Carrito
+							</a>
+						</li>
+						<li class="nav-item">
+							<a id="sales" class="nav-link" href="#" onclick="sales()">
+								<i class="fab fa-2x fa-stack-overflow"></i> Ventas
+							</a>
+						</li>
+					</ul>
+				</div>
+			</nav>
+			<main id="main" class="col-md-9 ml-sm-auto col-lg-10 pt-3 px-4"></main>-->
+			<main id="main" class="col-sm-12"></main>
+		</div>
+	</div>
+<!-- Bootstrap core JavaScript
+	================================================== -->
+	<!-- Placed at the end of the document so the pages load faster -->
+	<script src="js/jquery.min.js"></script>
+	<script src="js/popper.js"></script>
+	<!-- Jquery UI-->
+	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+	<!-- Bootstrap 3.3.6 -->
+	<script src="./js/bootstrap.min.js"></script>	
+	<!-- Swal -->
+	<script src="./js/sweetalert2.min.js"></script>
+	<!-- Graphs -->
+	<script src="./js/chart.min.js"></script>
+	<!-- Login functions -->
+	<script src="./js/login.js"></script>
+	<!-- DataTable JS -->
+	<script src="./js/jquerydatatable.min.js"></script>
+	<script src="./js/datatablerowgroup.min.js"></script>
+	<!-- Tag Cloud JS -->
+	<script src="./js/tagcloud.js"></script>
+	<!-- Custom JS -->
+	<script src="./js/custom.js"></script>
+	<!-- Tokenfield: http://sliptree.github.io/bootstrap-tokenfield/ -->
+	<script src="./js/bootstrap-tokenfield.js" type="text/javascript"></script>
+	<!-- Custom styles for fontawsome -->
+	<link src="js/font-awesome.js" type="text/javascript">
+
+</body>
+</html>

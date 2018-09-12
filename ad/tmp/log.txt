@@ -1,0 +1,1355 @@
+2018-04-23 21:51:22 Usuario: #1 - Salida sistema de admin.
+2018-04-23 21:52:14 Usuario: #1 - Salida sistema de admin.
+2018-04-24 09:36:58 Usuario: #1 - Salida sistema de admin.
+2018-04-24 09:37:04 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-24 16:17:02 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-24 16:29:00 Usuario: #1 - Salida sistema de admin.
+2018-04-24 16:29:06 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-24 18:05:58 Acceso al admin con usuario no logueado.
+2018-04-24 18:06:50 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-24 18:12:29 Usuario: #1 - Subir producto
+2018-04-24 18:12:30 Usuario: #1 - Error al querer insertar imagen generica en subida de producto
+2018-04-24 18:12:30 Usuario: #1 - Error al copiar img a la carpeta
+2018-04-24 18:12:30 Cookie vencida!, y quisieron guardar producto
+2018-04-24 18:24:06 Usuario: #1 - Subir producto
+2018-04-24 18:24:06 Usuario: #1 - Error al querer insertar imagen generica en subida de producto
+2018-04-24 18:24:06 Usuario: #1 - Error al copiar img a la carpeta
+2018-04-24 18:24:06 Cookie vencida!, y quisieron guardar producto
+2018-04-24 18:24:28 Usuario: #1 - Subir producto
+2018-04-24 18:24:28 Usuario: #1 - Error al querer insertar imagen generica en subida de producto
+2018-04-24 18:24:28 Usuario: #1 - Error al copiar img a la carpeta
+2018-04-24 18:24:28 Cookie vencida!, y quisieron guardar producto
+2018-04-24 18:26:28 Usuario: #1 - Subir producto
+2018-04-24 18:26:28 Usuario: #1 - Error al querer insertar imagen generica en subida de producto
+2018-04-24 18:26:28 Usuario: #1 - Error al copiar img a la carpeta
+2018-04-24 18:26:28 Cookie vencida!, y quisieron guardar producto
+2018-04-24 18:42:26 Usuario: #1 - Subir producto
+2018-04-24 18:42:26 Usuario: #1 - Error al querer insertar imagen generica en subida de producto
+2018-04-24 18:42:26 Usuario: #1 - Error al copiar img a la carpeta
+2018-04-24 18:42:26 Cookie vencida!, y quisieron guardar producto
+2018-04-24 18:45:49 Usuario: #1 - Subir producto
+2018-04-24 18:47:35 Usuario: #1 - Subir producto
+2018-04-24 18:49:06 Usuario: #1 - Subir producto
+2018-04-24 18:50:13 Usuario: #1 - Subir producto
+2018-04-24 18:50:56 Usuario: #1 - Subir producto
+2018-04-24 18:52:01 Usuario: #1 - Subir producto
+2018-04-24 18:53:19 Usuario: #1 - Subir producto
+2018-04-24 18:59:41 Usuario: #1 - Subir producto
+2018-04-24 19:00:11 Usuario: #1 - Subir producto
+2018-04-24 19:01:53 Usuario: #1 - Subir producto
+2018-04-24 19:07:09 Usuario: #1 - Subir producto
+2018-04-24 19:07:10 Cookie vencida!, y quisieron guardar producto
+2018-04-24 19:14:00 Usuario: #1 - Subir producto
+2018-04-24 19:14:01 Usuario: #1 - Subido producto
+2018-04-24 19:14:01 Cookie vencida!, y quisieron guardar producto
+2018-04-24 19:15:06 Usuario: #1 - Salida sistema de admin.
+2018-04-24 19:15:12 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-24 19:15:29 Usuario: #1 - Subir producto
+2018-04-24 19:15:29 Usuario: #1 - Error al actualizar imgxprod
+2018-04-24 19:15:29 Cookie vencida!, y quisieron guardar producto
+2018-04-24 19:16:32 Usuario: #1 - Subir producto
+2018-04-24 19:16:32 Usuario: #1 - Error al actualizar imgxprod
+2018-04-24 19:16:32 Cookie vencida!, y quisieron guardar producto
+2018-04-24 19:17:28 Usuario: #1 - Subir producto
+2018-04-24 19:23:42 Usuario: #1 - Subir producto
+2018-04-24 19:23:55 Usuario: #1 - Subir producto
+2018-04-24 19:24:33 Usuario: #1 - Subir producto
+2018-04-24 19:25:07 Usuario: #1 - Subir producto
+2018-04-24 19:25:07 Usuario: #1 - Error al actualizar imgxprod
+2018-04-24 19:25:07 Cookie vencida!, y quisieron guardar producto
+2018-04-24 19:25:53 Usuario: #1 - Salida sistema de admin.
+2018-04-24 19:30:24 Acceso al admin con usuario no logueado.
+2018-04-24 19:30:28 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-24 19:31:17 Usuario: #1 - Subir producto
+2018-04-24 19:31:17 Usuario: #1 - Error al actualizar imgxprod
+2018-04-24 19:34:13 Usuario: #1 - Salida sistema de admin.
+2018-04-24 19:34:19 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-24 19:34:59 Usuario: #1 - Subir producto
+2018-04-24 19:34:59 Usuario: #1 - Error al actualizar imgxprod
+2018-04-24 19:39:21 Usuario: #1 - Subir producto
+2018-04-24 19:39:21 Usuario: #1 - Subido producto
+2018-04-24 21:09:04 Usuario: #1 - Subir producto
+2018-04-24 21:10:20 Usuario: #1 - Subir producto
+2018-04-24 21:10:37 Usuario: #1 - Subir producto
+2018-04-24 21:10:37 Usuario: #1 - Subido producto
+2018-04-24 21:10:43 Usuario: #1 - Eliminar producto: #1
+2018-04-24 21:10:45 Usuario: #1 - Eliminar producto: #1
+2018-04-24 21:11:00 Usuario: #1 - Subir producto
+2018-04-24 21:11:01 Usuario: #1 - Subido producto
+2018-04-24 21:12:28 Usuario: #1 - Subir producto
+2018-04-24 21:12:29 Usuario: #1 - Subido producto
+2018-04-24 21:16:16 Usuario: #1 - Subir producto
+2018-04-24 21:16:16 Usuario: #1 - Subido producto
+2018-04-24 21:20:12 Usuario: #1 - Salida sistema de admin.
+2018-04-24 21:45:38 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-24 21:45:46 Usuario: #1 - Salida sistema de admin.
+2018-04-24 21:48:58 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-24 21:49:19 Usuario: #1 - Subir producto
+2018-04-24 21:49:19 Usuario: #1 - Subido producto
+2018-04-24 21:51:37 Usuario: #1 - Salida sistema de admin.
+2018-04-24 23:14:26 Acceso al admin con usuario no logueado.
+2018-04-24 23:14:32 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-24 23:15:15 Usuario: #1 - Subir producto
+2018-04-24 23:15:16 Usuario: #1 - Subido producto
+2018-04-24 23:45:56 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-24 23:45:56 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-24 23:45:56 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-24 23:45:56 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-24 23:50:55 Usuario: #1 - Salida sistema de admin.
+2018-04-24 23:51:03 Usuario: #2 - Ingreso al sistema de admin.
+2018-04-24 23:51:06 Acceso al admin con usuario no logueado.
+2018-04-24 23:53:50 Usuario: #2 - Ingreso al sistema de cliente.
+2018-04-24 23:53:54 Acceso al admin con usuario no logueado.
+2018-04-24 23:54:03 Usuario: #2 - Ingreso al sistema de cliente.
+2018-04-24 23:54:06 Acceso al admin con usuario no logueado.
+2018-04-24 23:56:34 Usuario: #2 - Ingreso al sistema de cliente.
+2018-04-25 14:02:06 Acceso al admin con usuario no logueado.
+2018-04-25 14:02:10 Usuario: #1 - Ingreso al sistema de cliente.
+2018-04-25 14:02:20 Usuario: #1 - Ingreso al sistema de cliente.
+2018-04-25 14:03:19 Usuario: #1 - Ingreso al sistema de cliente.
+2018-04-25 14:03:31 Acceso al admin con usuario no logueado.
+2018-04-25 14:04:44 Usuario: #2 - Ingreso al sistema de cliente.
+2018-04-25 14:05:04 Usuario: #1 - Ingreso al sistema de cliente.
+2018-04-25 14:06:00 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-25 14:08:18 Usuario: #1 - Subir producto
+2018-04-25 14:08:19 Usuario: #1 - Subido producto
+2018-04-25 14:09:19 Usuario: #1 - Subir producto
+2018-04-25 14:09:21 Usuario: #1 - Subido producto
+2018-04-25 14:10:04 Usuario: #1 - Subir producto
+2018-04-25 14:10:05 Usuario: #1 - Subido producto
+2018-04-25 14:10:14 Usuario: #1 - Subir producto
+2018-04-25 14:10:14 Usuario: #1 - Subido producto
+2018-04-25 14:10:46 Usuario: #1 - Salida sistema de admin.
+2018-04-25 14:10:56 Usuario: #2 - Ingreso al sistema de cliente.
+2018-04-25 17:19:43 Acceso al admin con usuario no logueado.
+2018-04-25 17:20:10 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-25 17:20:23 Usuario: #1 - Salida sistema de admin.
+2018-04-25 17:25:22 Usuario: #2 - Ingreso al sistema de cliente.
+2018-04-25 17:26:25 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-25 17:26:27 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-25 17:26:28 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-25 17:26:28 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-25 17:26:36 Usuario: #1 - Salida sistema de admin.
+2018-04-25 17:26:43 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-25 17:26:43 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-25 17:26:44 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-25 17:26:53 Usuario: #1 - Salida sistema de admin.
+2018-04-25 17:27:03 Usuario: #2 - Ingreso al sistema de cliente.
+2018-04-25 17:35:20 Acceso al admin con usuario no logueado.
+2018-04-25 17:35:26 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-25 18:07:50 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-25 18:08:06 Usuario: #1 - Salida sistema de admin.
+2018-04-25 18:18:34 Usuario: #2 - Ingreso al sistema de cliente.
+2018-04-25 18:23:05 Usuario: #2 - Ingreso al sistema de cliente.
+2018-04-25 18:28:02 Usuario: #2 - Subir producto
+2018-04-25 18:28:03 Usuario: #2 - Error al copiar img a la carpeta
+2018-04-25 18:28:51 Usuario: #2 - Subir producto
+2018-04-25 18:28:52 Usuario: #2 - Subido producto
+2018-04-25 18:41:49 Usuario: #2 - Eliminar producto: #4
+2018-04-25 18:46:42 Usuario: #2 - Eliminar producto: #4
+2018-04-25 18:46:42 No se pudieron eliminar algunas imagenes fisicas
+2018-04-25 18:46:53 Usuario: #2 - Eliminar producto: #5
+2018-04-25 18:48:01 Usuario: #2 - Eliminar producto: #4
+2018-04-25 18:48:01 No se pudieron eliminar algunas imagenes fisicas
+2018-04-25 18:48:02 Usuario: #2 - Elimino producto: #4
+2018-04-25 18:48:04 Usuario: #2 - Eliminar producto: #5
+2018-04-25 18:48:04 No se pudieron eliminar algunas imagenes fisicas
+2018-04-25 18:48:05 Usuario: #2 - Elimino producto: #5
+2018-04-25 20:35:32 Usuario: #2 - Ingreso al sistema de cliente.
+2018-04-26 13:53:36 Acceso al admin con usuario no logueado.
+2018-04-26 13:53:57 Usuario: #2 - Ingreso al sistema de cliente.
+2018-04-26 19:57:06 Acceso al admin con usuario no logueado.
+2018-04-26 19:57:10 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-26 19:57:40 Usuario: #1 - Salida sistema de admin.
+2018-04-26 19:57:47 Usuario: #2 - Ingreso al sistema de cliente.
+2018-04-26 21:15:39 Usuario: #2 - Ingreso al sistema de cliente.
+2018-04-28 10:42:54 Usuario: #2 - Ingreso al sistema de cliente.
+2018-04-28 10:46:15 Acceso al admin con usuario no logueado.
+2018-04-28 10:46:19 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-28 10:46:20 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-28 10:46:21 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-28 10:46:21 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-28 10:46:22 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-28 10:49:55 Usuario: #2 - Ingreso al sistema de cliente.
+2018-04-28 11:14:36 Usuario: #1 - Subir producto
+2018-04-28 11:14:38 Usuario: #1 - Subido producto
+2018-04-28 11:14:51 Usuario: #1 - Subir producto
+2018-04-28 11:14:51 Usuario: #1 - Subido producto
+2018-04-28 11:15:04 Usuario: #1 - Subir producto
+2018-04-28 11:15:05 Usuario: #1 - Subido producto
+2018-04-28 11:50:11 Usuario 2 - crea carrito. 
+2018-04-28 11:50:19 Usuario 2 - crea carrito. 
+2018-04-28 11:50:26 Usuario 2 - crea carrito. 
+2018-04-28 12:37:54 Usuario 2 - crea carrito. 
+2018-04-28 12:38:00 Usuario 2 - crea carrito. 
+2018-04-28 12:53:59 Usuario: #2 - Ingreso al sistema de cliente.
+2018-04-28 12:56:46 Usuario 2 - crea carrito. 
+2018-04-28 12:56:52 Usuario 2 - crea carrito. 
+2018-04-28 12:57:23 Acceso al admin con usuario no logueado.
+2018-04-28 12:57:28 Usuario: #2 - Ingreso al sistema de cliente.
+2018-04-28 12:58:07 Usuario 2 - crea carrito. 
+2018-04-28 12:58:08 Usuario 2 - crea carrito. 
+2018-04-28 12:58:37 Usuario 2 - crea carrito. 
+2018-04-28 12:59:21 Usuario 2 - crea carrito. 
+2018-04-28 12:59:35 Usuario 2 - crea carrito. 
+2018-04-28 12:59:36 Usuario 2 - crea carrito. 
+2018-04-28 12:59:47 Usuario 2 - crea carrito. 
+2018-04-28 12:59:57 Usuario 2 - crea carrito. 
+2018-04-28 13:00:12 Usuario 2 - crea carrito. 
+2018-04-28 13:00:25 Usuario 2 - crea carrito. 
+2018-04-28 13:03:39 Usuario: #2 - Ingreso al sistema de cliente.
+2018-04-28 13:04:29 Usuario 2 - crea carrito. 
+2018-04-28 13:05:07 Usuario 2 - crea carrito. 
+2018-04-28 13:06:12 Usuario 2 - crea carrito. 
+2018-04-28 13:10:27 Usuario: #2 - Ingreso al sistema de cliente.
+2018-04-28 13:11:11 Usuario: #2 - Ingreso al sistema de cliente.
+2018-04-28 14:36:07 Acceso al admin con usuario no logueado.
+2018-04-28 14:36:58 Usuario: #2 - Ingreso al sistema de cliente.
+2018-04-28 14:42:59 Usuario 2 - crea carrito. 
+2018-04-28 14:43:15 Usuario 2 - crea carrito. 
+2018-04-28 14:43:44 Usuario 2 - crea carrito. 
+2018-04-28 14:44:10 Usuario 2 - crea carrito. 
+2018-04-28 14:44:39 Usuario 2 - crea carrito. 
+2018-04-28 14:45:23 Usuario 2 - crea carrito. 
+2018-04-28 14:45:52 Usuario 2 - crea carrito. 
+2018-04-28 14:46:21 Usuario 2 - crea carrito. 
+2018-04-28 14:46:24 Usuario 2 - crea carrito. 
+2018-04-28 14:46:36 Usuario 2 - crea carrito. 
+2018-04-28 14:46:38 Usuario 2 - crea carrito. 
+2018-04-28 19:08:38 Acceso al admin con usuario no logueado.
+2018-04-28 19:11:52 Usuario: #2 - Ingreso al sistema de cliente.
+2018-04-28 19:11:53 Usuario: #2 - Ingreso al sistema de cliente.
+2018-04-28 19:25:20 Acceso al admin con usuario no logueado.
+2018-04-28 19:25:27 Usuario: #2 - Ingreso al sistema de cliente.
+2018-04-28 19:27:17 Usuario 2 - crea carrito. 
+2018-04-28 19:27:20 Usuario 2 - crea carrito. 
+2018-04-28 19:27:23 Usuario 2 - crea carrito. 
+2018-04-28 20:02:49 El usuario: #2 ha cerrado un carrito.
+2018-04-28 20:03:00 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-28 21:05:03 Usuario: # - Salida sistema de admin.
+2018-04-28 21:05:09 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-29 11:00:36 Usuario: # - Salida sistema de admin.
+2018-04-29 11:00:41 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-29 11:02:16 Se ha actualizado libro - Producto #1 - Cantidad: -15 - Usuario: #2
+2018-04-29 11:05:05 Se ha actualizado libro - Producto #2 - Cantidad: -25 - Usuario: #2
+2018-04-29 11:06:50 Usuario: # - Salida sistema de admin.
+2018-04-29 11:06:57 Usuario: #2 - Ingreso al sistema de cliente.
+2018-04-29 11:23:18 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-29 11:23:18 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-29 11:23:19 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-29 11:23:20 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-29 11:23:20 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-29 11:23:20 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-29 11:23:20 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-29 11:23:20 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-29 11:23:21 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-29 11:23:21 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-29 11:23:21 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-29 12:49:11 Usuario: #1 - Subir producto
+2018-04-29 12:49:15 Usuario: #1 - Subido producto
+2018-04-29 13:54:08 Acceso al admin con usuario no logueado.
+2018-04-29 13:54:14 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-29 16:20:46 Acceso al admin con usuario no logueado.
+2018-04-29 16:21:32 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-29 18:44:14 Acceso al admin con usuario no logueado.
+2018-04-29 18:44:25 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-30 15:35:41 Acceso al admin con usuario no logueado.
+2018-04-30 15:36:03 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-30 15:36:04 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-30 18:00:56 Usuario: # - Salida sistema de admin.
+2018-04-30 18:03:00 Usuario: #2 - Ingreso al sistema de cliente.
+2018-04-30 18:03:57 Usuario 2 - crea carrito. 
+2018-04-30 18:05:54 Usuario 2 - crea carrito. 
+2018-04-30 18:06:34 Usuario: #2 - Ingreso al sistema de cliente.
+2018-04-30 18:07:28 El usuario: #2 ha eliminado un carrito.
+2018-04-30 18:14:59 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-30 18:30:14 Usuario: # - Salida sistema de admin.
+2018-04-30 18:30:24 Usuario: #2 - Ingreso al sistema de cliente.
+2018-04-30 18:30:47 Usuario: #2 - Subir producto
+2018-04-30 18:30:48 Usuario: #2 - Error al actualizar imgxprod
+2018-04-30 18:35:22 Usuario: #2 - Subir producto
+2018-04-30 18:35:23 Usuario: #2 - Subido producto
+2018-04-30 18:59:11 Usuario: #1 - Ingreso al sistema de admin.
+2018-04-30 19:12:47 Usuario: # - Salida sistema de admin.
+2018-05-01 10:59:16 Acceso al admin con usuario no logueado.
+2018-05-01 10:59:21 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-01 10:59:36 Usuario: #1 - Eliminar producto: #4
+2018-05-01 10:59:36 No se pudieron eliminar algunas imagenes fisicas
+2018-05-01 10:59:36 Usuario: #1 - Error - BD - Al eliminar producto: #4
+2018-05-01 10:59:42 Usuario: #1 - Eliminar producto: #4
+2018-05-01 10:59:42 No se pudieron eliminar algunas imagenes fisicas
+2018-05-01 10:59:42 Usuario: #1 - Error - BD - Al eliminar producto: #4
+2018-05-01 11:00:54 Usuario: #1 - Eliminar producto: #4
+2018-05-01 11:00:54 No se pudieron eliminar algunas imagenes fisicas
+2018-05-01 11:00:55 Usuario: #1 - Error - BD - Al eliminar producto: #4
+2018-05-01 11:02:54 Usuario: #1 - Eliminar producto: #4
+2018-05-01 11:02:54 Usuario: #1 - Elimino producto: #4
+2018-05-01 11:05:08 Usuario: #1 - Eliminar producto: #3
+2018-05-01 11:05:08 No se pudieron eliminar algunas imagenes fisicas
+2018-05-01 11:05:08 Usuario: #1 - Elimino producto: #3
+2018-05-01 11:10:36 Usuario: #1 - Subir producto
+2018-05-01 11:10:36 Usuario: #1 - Subido producto
+2018-05-01 12:53:57 Acceso al admin con usuario no logueado.
+2018-05-01 12:54:02 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-01 12:54:02 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-01 12:54:03 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-01 12:56:14 Usuario: # - Salida sistema de admin.
+2018-05-01 12:56:21 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-03 13:49:21 Acceso al admin con usuario no logueado.
+2018-05-03 13:49:25 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-03 18:29:26 Acceso al admin con usuario no logueado.
+2018-05-03 18:29:35 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-03 18:29:59 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-03 18:35:57 Usuario: # - Salida sistema de admin.
+2018-05-03 18:36:04 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-03 18:39:04 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-03 18:39:06 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-05 11:07:26 Acceso al admin con usuario no logueado.
+2018-05-05 11:08:12 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-05 11:19:31 Se ha actualizado libro - Producto #00007 - Cantidad: -1500 - Usuario: #2
+2018-05-05 11:21:17 Se ha actualizado libro - Producto #00007 - Cantidad: -150000 - Usuario: #2
+2018-05-05 11:27:42 Se ha actualizado libro - Producto # - Cantidad: -1500000000 - Usuario: #2
+2018-05-06 23:21:21 Acceso al admin con usuario no logueado.
+2018-05-06 23:22:02 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-06 23:32:05 Usuario: # - Salida sistema de admin.
+2018-05-06 23:32:12 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-07 00:00:08 Usuario 2 - crea carrito. 
+2018-05-07 00:00:27 Usuario 2 - crea carrito. 
+2018-05-07 00:00:33 El usuario: #2 ha eliminado un carrito.
+2018-05-07 00:03:11 Usuario 2 - crea carrito. 
+2018-05-07 00:03:24 Acceso al admin con usuario no logueado.
+2018-05-07 00:03:28 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-07 00:04:11 El usuario: #2 ha cerrado un carrito.
+2018-05-07 00:04:18 Se ha actualizado libro - Producto #2 - Cantidad: -10 - Usuario: #2
+2018-05-07 00:04:34 Se ha actualizado libro - Producto #2 - Cantidad: -30 - Usuario: #2
+2018-05-07 00:05:23 Usuario: # - Salida sistema de admin.
+2018-05-07 12:09:12 Acceso al admin con usuario no logueado.
+2018-05-07 12:10:12 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-07 12:13:52 Se ha actualizado libro - Producto #2 - Cantidad: -10 - Usuario: #2
+2018-05-07 12:22:49 Se ha actualizado libro - Producto #2 - Cantidad: -10 - Usuario: #2
+2018-05-07 12:29:35 Se ha actualizado libro - Producto #2 - Cantidad: -15 - Usuario: #2
+2018-05-07 12:30:50 Se ha actualizado libro - Producto #2 - Cantidad: -15 - Usuario: #2
+2018-05-07 12:53:50 Se ha actualizado libro - Producto #2 - Cantidad: -15 - Usuario: #2
+2018-05-07 12:58:27 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-07 14:07:25 Acceso al admin con usuario no logueado.
+2018-05-07 14:07:48 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-07 14:08:22 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-07 14:08:35 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-07 14:09:17 Se ha actualizado libro - Producto #2 - Cantidad: -5 - Usuario: #2
+2018-05-07 14:12:53 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-07 14:14:55 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-07 14:15:17 Usuario 2 - crea carrito. 
+2018-05-07 14:15:26 El usuario: #2 ha cerrado un carrito.
+2018-05-07 14:22:46 Usuario 2 - crea carrito. 
+2018-05-07 14:23:24 Usuario 2 - crea carrito. 
+2018-05-07 14:23:44 Usuario: #1 - Subir producto
+2018-05-07 14:23:44 Usuario: #1 - Error al querer insertar imagen generica en subida de producto
+2018-05-07 14:23:44 Usuario: #1 - Error al copiar img a la carpeta
+2018-05-07 14:25:11 Usuario: #1 - Subir producto
+2018-05-07 14:25:11 Usuario: #1 - Error al querer insertar imagen generica en subida de producto
+2018-05-07 14:25:11 Usuario: #1 - Error al copiar img a la carpeta
+2018-05-07 14:25:48 El usuario: #2 ha cerrado un carrito.
+2018-05-07 14:27:43 Se ha actualizado libro - Producto #2 - Cantidad: -55 - Usuario: #2
+2018-05-07 17:07:21 Acceso al admin con usuario no logueado.
+2018-05-07 17:07:27 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-07 17:07:27 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-07 17:07:28 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-07 17:07:28 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-07 17:07:29 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-07 17:07:29 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-07 17:07:29 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-07 17:07:29 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-07 17:07:29 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-07 19:10:14 Usuario: # - Salida sistema de admin.
+2018-05-07 22:56:02 Acceso al admin con usuario no logueado.
+2018-05-07 22:56:06 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-08 19:02:11 Acceso al admin con usuario no logueado.
+2018-05-08 19:02:18 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-09 13:36:06 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-09 13:36:17 Usuario: #3 - Ingreso al sistema de cliente.
+2018-05-09 13:36:32 Usuario 3 - crea carrito. 
+2018-05-09 13:36:42 Usuario 3 - crea carrito. 
+2018-05-09 13:36:47 El usuario: #3 ha cerrado un carrito.
+2018-05-09 13:37:04 Acceso al admin con usuario no logueado.
+2018-05-09 13:37:08 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-09 13:39:05 Se ha actualizado libro - Producto #1 - Cantidad: -250 - Usuario: #3
+2018-05-09 13:39:08 Se ha actualizado libro - Producto #2 - Cantidad: -150 - Usuario: #3
+2018-05-09 14:13:36 Acceso al admin con usuario no logueado.
+2018-05-09 14:14:02 Acceso al admin con usuario no logueado.
+2018-05-09 14:14:16 Acceso al admin con usuario no logueado.
+2018-05-09 14:14:17 Acceso al admin con usuario no logueado.
+2018-05-09 14:14:17 Acceso al admin con usuario no logueado.
+2018-05-09 14:14:17 Acceso al admin con usuario no logueado.
+2018-05-09 14:14:17 Acceso al admin con usuario no logueado.
+2018-05-09 14:14:18 Acceso al admin con usuario no logueado.
+2018-05-09 14:14:18 Acceso al admin con usuario no logueado.
+2018-05-09 14:14:18 Acceso al admin con usuario no logueado.
+2018-05-09 14:14:18 Acceso al admin con usuario no logueado.
+2018-05-09 14:14:18 Acceso al admin con usuario no logueado.
+2018-05-09 14:14:18 Acceso al admin con usuario no logueado.
+2018-05-09 14:14:19 Acceso al admin con usuario no logueado.
+2018-05-09 14:15:01 Acceso al admin con usuario no logueado.
+2018-05-09 14:15:53 Acceso al admin con usuario no logueado.
+2018-05-09 14:16:32 Acceso al admin con usuario no logueado.
+2018-05-09 14:18:30 Acceso al admin con usuario no logueado.
+2018-05-09 14:19:40 Usuario: # - Subir producto
+2018-05-09 14:19:41 Usuario: # - Subido producto
+2018-05-09 14:19:46 Acceso al admin con usuario no logueado.
+2018-05-09 14:20:09 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-09 14:20:22 Usuario: #1 - Subir producto
+2018-05-09 14:20:23 Usuario: #1 - Error al querer insertar imagen generica en subida de producto
+2018-05-09 14:20:23 Usuario: #1 - Error al copiar img a la carpeta
+2018-05-09 14:21:23 Usuario: #1 - Subir producto
+2018-05-09 14:21:24 Usuario: #1 - Error al querer insertar imagen generica en subida de producto
+2018-05-09 14:21:24 Usuario: #1 - Error al copiar img a la carpeta
+2018-05-09 17:48:05 Acceso al admin con usuario no logueado.
+2018-05-09 17:49:42 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-09 18:15:59 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-09 18:18:03 Usuario: #3 - Ingreso al sistema de cliente.
+2018-05-09 18:21:24 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-09 19:11:00 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-09 19:15:19 El usuario: #2 ha cerrado un carrito.
+2018-05-09 19:15:48 Usuario 2 - crea carrito. 
+2018-05-09 19:15:53 Usuario 2 - crea carrito. 
+2018-05-09 19:15:58 Usuario 2 - crea carrito. 
+2018-05-09 19:16:05 El usuario: #2 ha cerrado un carrito.
+2018-05-09 19:16:10 Se ha actualizado libro - Producto #1 - Cantidad: -255 - Usuario: #2
+2018-05-09 19:16:12 Se ha actualizado libro - Producto #2 - Cantidad: -255 - Usuario: #2
+2018-05-09 19:16:14 Se ha actualizado libro - Producto #3 - Cantidad: -255 - Usuario: #2
+2018-05-09 19:55:14 El usuario 2 ha actualizado la cantidad de stock de el producto 1 en #5
+2018-05-09 19:56:11 El usuario 2 ha actualizado la cantidad de stock de el producto 1 en #5676
+2018-05-09 19:56:16 El usuario 2 ha actualizado la cantidad de stock de el producto 1 en #255
+2018-05-09 19:56:42 El usuario 2 ha actualizado la cantidad de stock de el producto 1 en #15
+2018-05-09 19:58:34 Acceso al sistema con usuario no logueado.
+2018-05-09 19:59:00 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-09 19:59:15 El usuario 1 ha actualizado la cantidad de stock de el producto 3 en #1
+2018-05-09 20:06:53 Usuario: #1 - Subir producto
+2018-05-09 20:06:54 Usuario: #1 - Subido producto
+2018-05-09 20:07:14 Usuario: #1 - Subir producto
+2018-05-09 20:07:15 Usuario: #1 - Error al actualizar imgxprod
+2018-05-09 20:07:57 Usuario: #1 - Subir producto
+2018-05-09 20:07:57 Usuario: #1 - Error al actualizar imgxprod
+2018-05-09 20:07:59 Usuario: #1 - Subir producto
+2018-05-09 20:08:00 Usuario: #1 - Error al actualizar imgxprod
+2018-05-09 20:09:22 Usuario: #1 - Subir producto
+2018-05-09 20:09:22 Usuario: #1 - Error al actualizar imgxprod
+2018-05-09 20:12:28 Usuario: #1 - Eliminar producto: #1
+2018-05-09 20:12:28 Usuario: #1 - Error - BD - Al eliminar producto: #1
+2018-05-09 20:12:49 Usuario: #1 - Eliminar producto: #2
+2018-05-09 20:12:49 No se pudieron eliminar algunas imagenes fisicas
+2018-05-09 20:12:49 Usuario: #1 - Error - BD - Al eliminar producto: #2
+2018-05-09 20:12:53 Usuario: #1 - Eliminar producto: #3
+2018-05-09 20:12:54 No se pudieron eliminar algunas imagenes fisicas
+2018-05-09 20:12:54 Usuario: #1 - Error - BD - Al eliminar producto: #3
+2018-05-09 20:14:37 Acceso al sistema con usuario no logueado.
+2018-05-09 20:15:04 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-09 20:22:33 Usuario: #1 - Subir producto
+2018-05-09 20:22:34 Usuario: #1 - Subido producto
+2018-05-09 20:22:52 Usuario: #1 - Subir producto
+2018-05-09 20:22:52 Usuario: #1 - Error al copiar img a la carpeta
+2018-05-09 20:23:58 Usuario: #1 - Subir producto
+2018-05-09 20:23:59 Usuario: #1 - Subido producto
+2018-05-09 20:24:03 Usuario: #1 - Eliminar producto: #2
+2018-05-09 20:24:03 No se pudieron eliminar algunas imagenes fisicas
+2018-05-09 20:24:03 Usuario: #1 - Elimino producto: #2
+2018-05-09 20:24:44 Usuario: #1 - Subir producto
+2018-05-09 20:24:45 Usuario: #1 - Subido producto
+2018-05-09 20:25:08 Usuario: #1 - Subir producto
+2018-05-09 20:25:08 Usuario: #1 - Subido producto
+2018-05-09 20:26:00 Usuario: #1 - Subir producto
+2018-05-09 20:26:01 Usuario: #1 - Subido producto
+2018-05-09 20:26:41 Usuario: #1 - Subir producto
+2018-05-09 20:26:42 Usuario: #1 - Subido producto
+2018-05-09 20:27:06 Usuario: #1 - Subir producto
+2018-05-09 20:27:06 Usuario: #1 - Error al actualizar imgxprod
+2018-05-09 20:40:42 Usuario: #1 - Subir producto
+2018-05-09 20:40:42 Usuario: #1 - Error al actualizar imgxprod
+2018-05-09 20:53:16 Usuario: #1 - Subir producto
+2018-05-09 20:53:17 Usuario: #1 - Error al actualizar imgxprod
+2018-05-09 20:56:18 Usuario: #1 - Subir producto
+2018-05-09 20:56:18 Usuario: #1 - Error al copiar img a la carpeta
+2018-05-09 20:57:20 Usuario: #1 - Subir producto
+2018-05-09 20:57:21 Usuario: #1 - Error al copiar img a la carpeta
+2018-05-09 20:57:52 Usuario: #1 - Subir producto
+2018-05-09 20:57:52 Usuario: #1 - Error al copiar img a la carpeta
+2018-05-09 21:01:16 Usuario: #1 - Subir producto
+2018-05-09 21:01:16 Fallo el insert a Producto.
+2018-05-09 21:03:17 Usuario: #1 - Subir producto
+2018-05-09 21:03:18 Usuario: #1 - Subido producto
+2018-05-09 21:04:10 Usuario: #1 - Subir producto
+2018-05-09 21:04:11 Usuario: #1 - Subido producto
+2018-05-09 21:06:37 Usuario: #1 - Subir producto
+2018-05-09 21:06:38 Usuario: #1 - Subido producto
+2018-05-09 21:12:44 Acceso al sistema con usuario no logueado.
+2018-05-09 21:12:55 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-09 22:09:55 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-09 22:10:14 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-09 23:06:59 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-09 23:07:00 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-09 23:07:01 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-09 23:07:01 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-09 23:07:01 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-09 23:07:02 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-09 23:07:02 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-09 23:07:02 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-09 23:07:02 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-09 23:07:02 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-09 23:07:02 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-09 23:07:03 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-09 23:07:16 Usuario 2 - crea carrito. 
+2018-05-09 23:07:20 Usuario 2 - crea carrito. 
+2018-05-09 23:07:24 Usuario 2 - crea carrito. 
+2018-05-09 23:07:31 Usuario 2 - crea carrito. 
+2018-05-09 23:07:36 Usuario 2 - crea carrito. 
+2018-05-09 23:07:40 Usuario 2 - crea carrito. 
+2018-05-09 23:07:51 Usuario 2 - crea carrito. 
+2018-05-09 23:07:57 Usuario 2 - crea carrito. 
+2018-05-09 23:08:02 El usuario: #2 ha cerrado un carrito.
+2018-05-09 23:08:19 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-09 23:08:20 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-09 23:08:20 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-09 23:08:21 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-09 23:08:21 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-09 23:08:22 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-09 23:08:31 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-09 23:08:31 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-09 23:08:32 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-09 23:08:32 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-09 23:08:33 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-09 23:08:33 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-09 23:08:34 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-09 23:08:34 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-09 23:08:50 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-09 23:08:51 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-09 23:08:51 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-09 23:08:52 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-09 23:08:52 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-09 23:08:53 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-09 23:09:17 El usuario: #1 ha cerrado un carrito.
+2018-05-09 23:09:19 El usuario: #1 ha cerrado un carrito.
+2018-05-09 23:09:22 El usuario: #1 ha cerrado un carrito.
+2018-05-09 23:10:36 Se ha actualizado libro - Producto #1 - Cantidad: -123 - Usuario: #2
+2018-05-09 23:10:38 Se ha actualizado libro - Producto #3 - Cantidad: -122 - Usuario: #2
+2018-05-09 23:10:40 Se ha actualizado libro - Producto #4 - Cantidad: -44 - Usuario: #2
+2018-05-09 23:10:43 Se ha actualizado libro - Producto #5 - Cantidad: -122 - Usuario: #2
+2018-05-09 23:10:45 Se ha actualizado libro - Producto #6 - Cantidad: -122 - Usuario: #2
+2018-05-09 23:10:48 Se ha actualizado libro - Producto #7 - Cantidad: -5 - Usuario: #2
+2018-05-09 23:10:49 Se ha actualizado libro - Producto #8 - Cantidad: -12 - Usuario: #2
+2018-05-09 23:10:52 Se ha actualizado libro - Producto #9 - Cantidad: -55 - Usuario: #2
+2018-05-09 23:12:15 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-09 23:12:40 El usuario 2 ha actualizado la cantidad de stock de el producto 8 en #5
+2018-05-09 23:14:01 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-09 23:24:01 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-09 23:24:28 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-09 23:24:45 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-09 23:25:16 El usuario 2 ha actualizado la cantidad de stock de el producto 3 en #12
+2018-05-09 23:25:22 El usuario 2 ha actualizado la cantidad de stock de el producto 1 en #22
+2018-05-10 00:06:54 Se ha actualizado libro - Producto #6 - Cantidad: -12 - Usuario: #2
+2018-05-10 00:07:09 Se ha actualizado libro - Producto #9 - Cantidad: -123 - Usuario: #2
+2018-05-10 14:18:23 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-10 14:18:54 Usuario: #3 - Ingreso al sistema de cliente.
+2018-05-10 14:19:28 Usuario: #3 - Subir producto
+2018-05-10 14:19:29 Usuario: #3 - Subido producto
+2018-05-10 14:19:37 El usuario 3 ha actualizado la cantidad de stock de el producto 10 en #15
+2018-05-10 20:29:50 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-10 20:35:34 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-11 11:23:41 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-11 12:40:21 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-11 15:41:54 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-11 15:52:45 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-11 15:52:58 Usuario 2 - crea carrito. 
+2018-05-11 15:52:59 Usuario 2 - crea carrito. 
+2018-05-11 15:53:00 Usuario 2 - crea carrito. 
+2018-05-11 15:53:05 Usuario 2 - crea carrito. 
+2018-05-11 15:53:07 Usuario 2 - crea carrito. 
+2018-05-11 15:53:09 Usuario 2 - crea carrito. 
+2018-05-11 15:53:11 Usuario 2 - crea carrito. 
+2018-05-11 15:53:13 Usuario 2 - crea carrito. 
+2018-05-11 15:53:15 Usuario 2 - crea carrito. 
+2018-05-11 15:53:20 El usuario: #2 ha cerrado un carrito.
+2018-05-11 15:53:28 Usuario: #3 - Ingreso al sistema de cliente.
+2018-05-11 15:53:33 Usuario 3 - crea carrito. 
+2018-05-11 15:53:34 Usuario 3 - crea carrito. 
+2018-05-11 15:53:36 Usuario 3 - crea carrito. 
+2018-05-11 15:53:38 Usuario 3 - crea carrito. 
+2018-05-11 15:53:39 Usuario 3 - crea carrito. 
+2018-05-11 15:53:40 Usuario 3 - crea carrito. 
+2018-05-11 15:53:42 Usuario 3 - crea carrito. 
+2018-05-11 15:53:44 Usuario 3 - crea carrito. 
+2018-05-11 15:53:46 Usuario 3 - crea carrito. 
+2018-05-11 15:53:49 El usuario: #3 ha cerrado un carrito.
+2018-05-11 15:53:56 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-11 15:54:02 Se ha actualizado libro - Producto #1 - Cantidad: -15 - Usuario: #2
+2018-05-11 15:54:04 Se ha actualizado libro - Producto #1 - Cantidad: -1 - Usuario: #3
+2018-05-11 15:54:08 Se ha actualizado libro - Producto #3 - Cantidad: -15 - Usuario: #2
+2018-05-11 15:54:10 Se ha actualizado libro - Producto #3 - Cantidad: -1 - Usuario: #3
+2018-05-11 15:54:12 Se ha actualizado libro - Producto #4 - Cantidad: -15 - Usuario: #2
+2018-05-11 15:54:14 Se ha actualizado libro - Producto #4 - Cantidad: -1 - Usuario: #3
+2018-05-11 15:54:17 Se ha actualizado libro - Producto #5 - Cantidad: -15 - Usuario: #2
+2018-05-11 15:54:19 Se ha actualizado libro - Producto #5 - Cantidad: -1 - Usuario: #3
+2018-05-11 15:54:21 Se ha actualizado libro - Producto #6 - Cantidad: -15 - Usuario: #2
+2018-05-11 15:54:23 Se ha actualizado libro - Producto #6 - Cantidad: -1 - Usuario: #3
+2018-05-11 15:54:25 Se ha actualizado libro - Producto #7 - Cantidad: -15 - Usuario: #2
+2018-05-11 15:54:28 Se ha actualizado libro - Producto #7 - Cantidad: -1 - Usuario: #3
+2018-05-11 15:54:30 Se ha actualizado libro - Producto #8 - Cantidad: -1 - Usuario: #2
+2018-05-11 15:54:33 Se ha actualizado libro - Producto #8 - Cantidad: -1 - Usuario: #3
+2018-05-11 15:54:35 Se ha actualizado libro - Producto #10 - Cantidad: -1 - Usuario: #2
+2018-05-11 15:54:39 Se ha actualizado libro - Producto #10 - Cantidad: -1 - Usuario: #3
+2018-05-11 15:54:42 Se ha actualizado libro - Producto #9 - Cantidad: -1 - Usuario: #2
+2018-05-11 15:54:46 Se ha actualizado libro - Producto #9 - Cantidad: -1 - Usuario: #3
+2018-05-11 17:00:38 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-11 17:00:40 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-11 17:30:17 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-11 17:31:07 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-11 18:10:43 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-11 18:27:17 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-11 18:27:21 Usuario 2 - crea carrito. 
+2018-05-11 18:27:23 Usuario 2 - crea carrito. 
+2018-05-11 18:27:25 Usuario 2 - crea carrito. 
+2018-05-11 18:27:35 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-11 18:27:51 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-11 18:27:58 El usuario: #2 ha cerrado un carrito.
+2018-05-11 18:28:06 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-11 18:37:51 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-11 18:37:57 Se ha actualizado libro - Producto #1 - Cantidad: -1 - Usuario: #2
+2018-05-11 18:38:00 Se ha actualizado libro - Producto #3 - Cantidad: -1 - Usuario: #2
+2018-05-11 18:38:01 Se ha actualizado libro - Producto #4 - Cantidad: -1 - Usuario: #2
+2018-05-11 18:41:33 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-11 18:41:39 Usuario 2 - crea carrito. 
+2018-05-11 18:41:42 Usuario 2 - crea carrito. 
+2018-05-11 18:41:44 Usuario 2 - crea carrito. 
+2018-05-11 18:41:50 Usuario 2 - crea carrito. 
+2018-05-11 18:41:51 Usuario 2 - crea carrito. 
+2018-05-11 18:41:53 Usuario 2 - crea carrito. 
+2018-05-11 18:41:58 El usuario: #2 ha cerrado un carrito.
+2018-05-11 18:42:05 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-11 18:42:10 Se ha actualizado libro - Producto #1 - Cantidad: -12 - Usuario: #2
+2018-05-11 18:42:12 Se ha actualizado libro - Producto #3 - Cantidad: -23 - Usuario: #2
+2018-05-11 18:42:14 Se ha actualizado libro - Producto #4 - Cantidad: -23 - Usuario: #2
+2018-05-11 18:42:17 Se ha actualizado libro - Producto #7 - Cantidad: -14 - Usuario: #2
+2018-05-11 18:42:19 Se ha actualizado libro - Producto #6 - Cantidad: -123 - Usuario: #2
+2018-05-11 18:42:22 Se ha actualizado libro - Producto #5 - Cantidad: -121 - Usuario: #2
+2018-05-11 19:22:26 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-11 19:25:43 Usuario 2 - crea carrito. 
+2018-05-11 19:25:45 Usuario 2 - crea carrito. 
+2018-05-11 19:25:46 Usuario 2 - crea carrito. 
+2018-05-11 19:25:51 El usuario: #2 ha cerrado un carrito.
+2018-05-11 19:26:00 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-11 19:26:04 Se ha actualizado libro - Producto #1 - Cantidad: -15 - Usuario: #2
+2018-05-11 19:26:06 Se ha actualizado libro - Producto #3 - Cantidad: -15 - Usuario: #2
+2018-05-11 19:26:08 Se ha actualizado libro - Producto #4 - Cantidad: -15 - Usuario: #2
+2018-05-11 19:39:36 Usuario: #1 - Subir producto
+2018-05-11 19:39:37 Usuario: #1 - Subido producto
+2018-05-11 19:39:49 Usuario: #1 - Subir producto
+2018-05-11 19:39:50 Usuario: #1 - Subido producto
+2018-05-11 19:47:18 Usuario: #1 - Subir producto
+2018-05-11 19:47:19 Usuario: #1 - Subido producto
+2018-05-11 19:47:30 Usuario: #1 - Subir producto
+2018-05-11 19:47:31 Usuario: #1 - Subido producto
+2018-05-11 19:57:13 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-11 20:22:10 Se ha actualizado libro - Producto #4 - Cantidad: -5 - Usuario: #2
+2018-05-11 20:27:13 Usuario: #3 - Ingreso al sistema de cliente.
+2018-05-11 20:27:27 Usuario 3 - crea carrito. 
+2018-05-11 20:27:28 Usuario 3 - crea carrito. 
+2018-05-11 20:27:29 Usuario 3 - crea carrito. 
+2018-05-11 20:27:31 Usuario 3 - crea carrito. 
+2018-05-11 20:27:33 Usuario 3 - crea carrito. 
+2018-05-11 20:27:34 Usuario 3 - crea carrito. 
+2018-05-11 20:27:37 Usuario 3 - crea carrito. 
+2018-05-11 20:27:39 Usuario 3 - crea carrito. 
+2018-05-11 20:27:42 Usuario 3 - crea carrito. 
+2018-05-11 20:27:48 El usuario: #3 ha cerrado un carrito.
+2018-05-11 20:27:56 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-11 20:28:05 Se ha actualizado libro - Producto #1 - Cantidad: -12 - Usuario: #3
+2018-05-11 20:28:07 Se ha actualizado libro - Producto #3 - Cantidad: -321 - Usuario: #3
+2018-05-11 20:28:10 Se ha actualizado libro - Producto #4 - Cantidad: -177 - Usuario: #3
+2018-05-11 20:28:12 Se ha actualizado libro - Producto #5 - Cantidad: -110 - Usuario: #3
+2018-05-11 20:28:15 Se ha actualizado libro - Producto #6 - Cantidad: -12 - Usuario: #3
+2018-05-11 20:28:17 Se ha actualizado libro - Producto #7 - Cantidad: -15 - Usuario: #3
+2018-05-11 20:28:19 Se ha actualizado libro - Producto #8 - Cantidad: -55 - Usuario: #3
+2018-05-11 20:28:21 Se ha actualizado libro - Producto #9 - Cantidad: -34 - Usuario: #3
+2018-05-11 20:28:23 Se ha actualizado libro - Producto #10 - Cantidad: -23 - Usuario: #3
+2018-05-11 20:33:13 Usuario: #1 - Subir producto
+2018-05-11 20:33:13 Usuario: #1 - Subido producto
+2018-05-11 20:33:35 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-11 20:33:52 Usuario 2 - crea carrito. 
+2018-05-11 20:33:56 El usuario: #2 ha cerrado un carrito.
+2018-05-11 20:34:03 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-11 20:34:08 Se ha actualizado libro - Producto #1 - Cantidad: -50 - Usuario: #2
+2018-05-11 20:36:04 Usuario: #1 - Subir producto
+2018-05-11 20:36:05 Usuario: #1 - Subido producto
+2018-05-11 20:38:05 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-11 20:38:19 Usuario 2 - crea carrito. 
+2018-05-11 20:38:20 Usuario 2 - crea carrito. 
+2018-05-11 20:38:24 El usuario: #2 ha cerrado un carrito.
+2018-05-11 20:38:31 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-11 20:38:36 Se ha actualizado libro - Producto #1 - Cantidad: -12 - Usuario: #2
+2018-05-11 20:40:53 Se ha actualizado libro - Producto #3 - Cantidad: -12 - Usuario: #2
+2018-05-11 20:41:09 Usuario: #1 - Subir producto
+2018-05-11 20:41:10 Usuario: #1 - Subido producto
+2018-05-11 20:44:11 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-11 20:44:33 Se ha actualizado libro - Producto #1 - Cantidad: -15 - Usuario: #2
+2018-05-11 20:51:19 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-11 20:59:04 Usuario: #3 - Ingreso al sistema de cliente.
+2018-05-11 21:00:40 Se ha actualizado libro - Producto #6 - Cantidad: -14 - Usuario: #3
+2018-05-11 21:01:05 Se ha actualizado libro - Producto #6 - Cantidad: -2 - Usuario: #3
+2018-05-11 21:09:38 Usuario 3 - crea carrito. 
+2018-05-11 21:09:43 El usuario: #3 ha cerrado un carrito.
+2018-05-11 21:09:52 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-11 21:10:09 Se ha actualizado libro - Producto #6 - Cantidad: -25 - Usuario: #3
+2018-05-11 23:31:44 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-15 17:28:17 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-16 23:25:25 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-17 14:28:53 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-18 09:34:13 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-18 21:13:54 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-21 00:35:04 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-21 11:07:50 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-21 11:31:27 Usuario: #1 - Subir producto
+2018-05-21 11:31:27 Usuario: #1 - Error al copiar img a la carpeta
+2018-05-21 11:38:43 Usuario: #1 - Subir producto
+2018-05-21 11:38:44 Usuario: #1 - Subido producto
+2018-05-21 11:39:09 Usuario: #1 - Eliminar producto: #11
+2018-05-21 11:39:10 Usuario: #1 - Elimino producto: #11
+2018-05-21 11:40:42 Usuario: #1 - Subir producto
+2018-05-21 11:40:42 Usuario: #1 - Subido producto
+2018-05-21 11:40:58 Usuario: #1 - Subir producto
+2018-05-21 11:40:58 Usuario: #1 - Subido producto
+2018-05-21 12:00:58 Usuario: #1 - Subir producto
+2018-05-21 12:00:59 Usuario: #1 - Subido producto
+2018-05-21 13:14:39 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-21 13:15:03 Usuario: #2 - Subir producto
+2018-05-21 13:15:03 Usuario: #2 - Error al actualizar imgxprod
+2018-05-21 13:15:38 Usuario: #2 - Subir producto
+2018-05-21 13:15:38 Usuario: #2 - Error al actualizar imgxprod
+2018-05-21 13:16:14 Usuario: #2 - Subir producto
+2018-05-21 13:16:15 Usuario: #2 - Subido producto
+2018-05-21 13:16:30 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-21 13:17:11 Usuario: #1 - Subir producto
+2018-05-21 13:17:12 Usuario: #1 - Subido producto
+2018-05-21 13:18:32 Usuario: #3 - Ingreso al sistema de cliente.
+2018-05-21 13:18:37 Usuario 3 - crea carrito. 
+2018-05-21 13:18:43 El usuario: #3 ha cerrado un carrito.
+2018-05-21 13:18:48 Usuario 3 - crea carrito. 
+2018-05-21 13:18:52 El usuario: #3 ha eliminado un carrito.
+2018-05-21 13:19:07 Se ha actualizado libro - Producto #4 - Cantidad: -124 - Usuario: #3
+2018-05-21 13:19:59 Usuario: #3 - Eliminar producto: #9
+2018-05-21 13:19:59 Usuario: #3 - Elimino producto: #9
+2018-05-21 13:20:04 Usuario: #3 - Eliminar producto: #8
+2018-05-21 13:20:05 Usuario: #3 - Elimino producto: #8
+2018-05-21 13:20:13 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-21 13:20:18 Se ha actualizado libro - Producto #1 - Cantidad: -3 - Usuario: #3
+2018-05-21 13:21:07 Usuario: #3 - Ingreso al sistema de cliente.
+2018-05-21 13:23:37 Usuario: #3 - Ingreso al sistema de cliente.
+2018-05-21 13:30:02 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-21 13:32:35 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-21 14:08:37 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-21 14:26:19 El usuario 2 ha actualizado la cantidad de stock de el producto 1 en #5456
+2018-05-21 14:48:50 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-21 14:54:51 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-21 14:55:25 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-21 14:55:36 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-21 14:56:32 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-21 14:56:47 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-21 14:57:47 Usuario: #3 - Ingreso al sistema de cliente.
+2018-05-21 14:58:50 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-21 14:59:28 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-21 15:00:01 El usuario 2 ha actualizado la cantidad de stock de el producto 1 en #0
+2018-05-21 15:12:01 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-21 15:56:48 El usuario 2 se ha actualizado el producto 1. Cantidad #1 - Stock minimo: #1 - Precio venta: $200
+2018-05-21 15:58:33 El usuario 2 se ha actualizado el producto 4. Cantidad #555 - Stock minimo: #1 - Precio venta: $1008
+2018-05-21 15:58:40 El usuario 2 se ha actualizado el producto 4. Cantidad #0 - Stock minimo: #0 - Precio venta: $0
+2018-05-21 15:58:49 El usuario 2 se ha actualizado el producto 4. Cantidad #10 - Stock minimo: #6 - Precio venta: $1515
+2018-05-21 15:59:44 Usuario: #2 - Subir producto
+2018-05-21 15:59:44 Fallo el insert a Producto.
+2018-05-21 16:03:05 Usuario: #2 - Subir producto
+2018-05-21 16:03:06 Usuario: #2 - Subido producto
+2018-05-21 16:03:14 El usuario 2 se ha actualizado el producto 14. Cantidad #1 - Stock minimo: #0 - Precio venta: $1231
+2018-05-21 16:03:50 Usuario: #1 - Subir producto
+2018-05-21 16:03:50 Usuario: #1 - Subido producto
+2018-05-21 16:06:17 Usuario: #2 - Subir producto
+2018-05-21 16:06:18 Usuario: #2 - Subido producto
+2018-05-21 16:06:28 El usuario 2 se ha actualizado el producto 15. Cantidad #1 - Stock minimo: #0 - Precio venta: $200
+2018-05-21 16:15:07 El usuario 2 se ha actualizado el producto 15. Cantidad #15 - Stock minimo: #12 - Precio venta: $155
+2018-05-21 16:15:17 El usuario 2 se ha actualizado el producto 15. Cantidad #15 - Stock minimo: #12 - Precio venta: $250
+2018-05-21 16:15:35 El usuario 2 se ha actualizado el producto 15. Cantidad #15 - Stock minimo: #10 - Precio venta: $250
+2018-05-21 16:17:27 El usuario 2 se ha actualizado el producto 4. Cantidad #10 - Stock minimo: #5 - Precio venta: $1515
+2018-05-21 16:17:35 El usuario 2 se ha actualizado el producto 4. Cantidad #100 - Stock minimo: #5 - Precio venta: $1515
+2018-05-21 19:32:56 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-21 20:37:38 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-21 21:37:34 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-21 21:49:15 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-21 21:55:56 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-21 21:57:44 Usuario 2 - crea carrito. 
+2018-05-21 21:57:46 Usuario 2 - crea carrito. 
+2018-05-21 21:57:47 Usuario 2 - crea carrito. 
+2018-05-22 10:48:24 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-22 10:57:30 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-22 13:10:15 Se ha actualizado libro - Producto #5 - Cantidad: -15 - Usuario: #2
+2018-05-22 13:11:25 Se ha actualizado libro - Producto #4 - Cantidad: -25 - Usuario: #2
+2018-05-22 13:49:42 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-22 13:54:07 Se ha actualizado libro - Producto #7 - Cantidad: -15 - Usuario: #2
+2018-05-22 14:22:16 Se ha actualizado libro - Producto #3 - Cantidad: -24 - Usuario: #2
+2018-05-22 14:26:13 Se ha actualizado libro - Producto #3 - Cantidad: -150 - Usuario: #2
+2018-05-22 14:27:53 Se ha actualizado libro - Producto #3 - Cantidad: -13 - Usuario: #2
+2018-05-22 14:28:39 Usuario 2 - crea carrito. 
+2018-05-22 14:28:56 El usuario: #2 ha cerrado un carrito.
+2018-05-22 14:29:46 Se ha actualizado libro - Producto #3 - Cantidad: -1 - Usuario: #2
+2018-05-22 14:30:40 Se ha actualizado libro - Producto #4 - Cantidad: -2 - Usuario: #2
+2018-05-22 14:30:40 Se ha actualizado libro - Producto #3 - Cantidad: -1 - Usuario: #2
+2018-05-22 15:30:13 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-22 15:55:32 Se ha actualizado libro - Producto #4 - Cantidad: -2 - Usuario: #2
+2018-05-22 15:59:13 Usuario 2 - crea carrito. 
+2018-05-22 16:00:06 Usuario 2 - crea carrito. 
+2018-05-22 16:54:51 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-22 16:55:02 Usuario 2 - crea carrito. 
+2018-05-22 16:55:28 Se ha actualizado libro - Producto #4 - Cantidad: -1 - Usuario: #2
+2018-05-22 16:55:28 Se ha actualizado libro - Producto #6 - Cantidad: -12 - Usuario: #2
+2018-05-22 16:55:54 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-22 17:23:41 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-22 17:32:33 Usuario 2 - crea carrito. 
+2018-05-22 17:33:22 El usuario: #2 ha eliminado un carrito.
+2018-05-22 17:33:30 Usuario 2 - crea carrito. 
+2018-05-22 17:33:44 Usuario 2 - crea carrito. 
+2018-05-22 17:33:46 Usuario 2 - crea carrito. 
+2018-05-22 17:33:49 Usuario 2 - crea carrito. 
+2018-05-22 17:34:05 El usuario: #2 ha cerrado un carrito.
+2018-05-22 17:34:11 Usuario 2 - crea carrito. 
+2018-05-22 17:34:12 Usuario 2 - crea carrito. 
+2018-05-22 17:34:43 Usuario 2 - crea carrito. 
+2018-05-22 17:34:57 Usuario 2 - crea carrito. 
+2018-05-22 17:41:10 Usuario 2 - crea carrito. 
+2018-05-22 17:41:12 Usuario 2 - crea carrito. 
+2018-05-22 17:41:18 El usuario: #2 ha eliminado un carrito.
+2018-05-22 17:41:20 El usuario: #2 ha eliminado un carrito.
+2018-05-22 17:41:23 El usuario: #2 ha eliminado un carrito.
+2018-05-22 17:41:25 El usuario: #2 ha eliminado un carrito.
+2018-05-22 17:41:44 Usuario 2 - crea carrito. 
+2018-05-22 17:41:45 Usuario 2 - crea carrito. 
+2018-05-22 17:41:47 Usuario 2 - crea carrito. 
+2018-05-22 17:41:56 El usuario: #2 ha eliminado un carrito.
+2018-05-22 17:41:58 El usuario: #2 ha eliminado un carrito.
+2018-05-22 17:42:00 El usuario: #2 ha eliminado un carrito.
+2018-05-22 17:42:18 Usuario 2 - crea carrito. 
+2018-05-22 17:42:19 Usuario 2 - crea carrito. 
+2018-05-22 17:42:20 Usuario 2 - crea carrito. 
+2018-05-22 17:42:39 El usuario: #2 ha cerrado un carrito.
+2018-05-22 17:44:10 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-22 17:59:42 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-22 18:15:55 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-22 19:28:56 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-22 19:30:13 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-22 19:32:52 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-22 19:42:51 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-22 20:06:16 Se ha actualizado libro - Producto #1 - Cantidad: -136 - Usuario: #2
+2018-05-22 20:06:21 Se ha actualizado libro - Producto #3 - Cantidad: -15 - Usuario: #2
+2018-05-22 20:06:22 Se ha actualizado libro - Producto #4 - Cantidad: -1 - Usuario: #2
+2018-05-22 20:06:23 Se ha actualizado libro - Producto #8 - Cantidad: -2 - Usuario: #2
+2018-05-22 20:06:25 Se ha actualizado libro - Producto #9 - Cantidad: -1 - Usuario: #2
+2018-05-22 20:06:26 Se ha actualizado libro - Producto #11 - Cantidad: -1 - Usuario: #2
+2018-05-22 20:18:34 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-22 20:19:01 Usuario 2 - crea carrito. 
+2018-05-22 20:19:04 Usuario 2 - crea carrito. 
+2018-05-22 20:19:06 Usuario 2 - crea carrito. 
+2018-05-22 20:19:12 Usuario 2 - crea carrito. 
+2018-05-22 20:19:14 Usuario 2 - crea carrito. 
+2018-05-22 20:19:32 El usuario: #2 ha cerrado un carrito.
+2018-05-22 20:29:00 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-22 20:48:20 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-22 21:02:16 Se ha actualizado libro - Producto #1 - Cantidad: -12 - Usuario: #2
+2018-05-22 21:02:17 Se ha actualizado libro - Producto #3 - Cantidad: -3 - Usuario: #2
+2018-05-22 21:02:17 Se ha actualizado libro - Producto #4 - Cantidad: -4 - Usuario: #2
+2018-05-22 21:02:17 Se ha actualizado libro - Producto #5 - Cantidad: -21 - Usuario: #2
+2018-05-22 21:02:17 Se ha actualizado libro - Producto #6 - Cantidad: -1 - Usuario: #2
+2018-05-22 21:02:33 El usuario: #1 ha eliminado un carrito.
+2018-05-22 21:08:09 Usuario 2 - crea carrito. 
+2018-05-22 21:08:11 Usuario 2 - crea carrito. 
+2018-05-22 21:08:12 Usuario 2 - crea carrito. 
+2018-05-22 21:08:16 Usuario 2 - crea carrito. 
+2018-05-22 21:08:18 Usuario 2 - crea carrito. 
+2018-05-22 21:08:27 Usuario 2 - crea carrito. 
+2018-05-22 21:10:10 El usuario: #2 ha eliminado un carrito.
+2018-05-22 21:10:13 El usuario: #2 ha eliminado un carrito.
+2018-05-22 21:12:50 El usuario: #2 ha eliminado un carrito.
+2018-05-22 21:12:52 El usuario: #2 ha eliminado un carrito.
+2018-05-22 21:16:13 Usuario 2 - crea carrito. 
+2018-05-22 21:16:14 Usuario 2 - crea carrito. 
+2018-05-22 21:16:16 Usuario 2 - crea carrito. 
+2018-05-22 21:16:19 Usuario 2 - crea carrito. 
+2018-05-22 21:16:28 El usuario: #2 ha cerrado un carrito.
+2018-05-22 21:17:38 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-22 21:24:11 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-22 21:27:08 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-22 21:29:30 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-22 21:36:55 Se ha actualizado libro - Producto #1 - Cantidad: -1 - Usuario: #2
+2018-05-22 21:36:56 Se ha actualizado libro - Producto #3 - Cantidad: -1 - Usuario: #2
+2018-05-22 21:36:56 Se ha actualizado libro - Producto #7 - Cantidad: -1 - Usuario: #2
+2018-05-22 21:36:56 Se ha actualizado libro - Producto #9 - Cantidad: -1 - Usuario: #2
+2018-05-22 21:40:11 Usuario: #3 - Ingreso al sistema de cliente.
+2018-05-22 21:40:16 Usuario 3 - crea carrito. 
+2018-05-22 21:40:18 Usuario 3 - crea carrito. 
+2018-05-22 21:40:19 Usuario 3 - crea carrito. 
+2018-05-22 21:40:21 Usuario 3 - crea carrito. 
+2018-05-22 21:40:26 El usuario: #3 ha cerrado un carrito.
+2018-05-22 21:40:39 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-22 21:40:44 Se ha actualizado libro - Producto #1 - Cantidad: -1 - Usuario: #3
+2018-05-22 21:40:44 Se ha actualizado libro - Producto #3 - Cantidad: -1 - Usuario: #3
+2018-05-22 21:40:45 Se ha actualizado libro - Producto #4 - Cantidad: -1 - Usuario: #3
+2018-05-22 21:40:45 Se ha actualizado libro - Producto #5 - Cantidad: -1 - Usuario: #3
+2018-05-22 21:47:43 Usuario: #3 - Ingreso al sistema de cliente.
+2018-05-22 21:47:49 Usuario 3 - crea carrito. 
+2018-05-22 21:47:50 Usuario 3 - crea carrito. 
+2018-05-22 21:47:52 Usuario 3 - crea carrito. 
+2018-05-22 21:48:01 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-22 21:49:01 Usuario: #3 - Ingreso al sistema de cliente.
+2018-05-22 21:49:08 El usuario: #3 ha cerrado un carrito.
+2018-05-22 22:33:58 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-23 21:23:13 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-23 21:24:07 Usuario: #1 - Subir producto
+2018-05-23 21:24:07 Usuario: #1 - Subido producto
+2018-05-23 21:24:26 Usuario: #1 - Subir producto
+2018-05-23 21:24:27 Usuario: #1 - Subido producto
+2018-05-23 21:29:57 Usuario: #1 - Subir producto
+2018-05-23 21:29:57 Usuario: #1 - Subido producto
+2018-05-23 21:33:26 Usuario: #1 - Subir producto
+2018-05-23 21:33:26 Usuario: #1 - Subido producto
+2018-05-23 21:48:20 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-23 21:49:50 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-23 21:50:16 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-23 21:51:09 Usuario: #3 - Ingreso al sistema de cliente.
+2018-05-23 21:51:27 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-23 21:51:51 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-23 21:51:59 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-23 21:53:19 Usuario: #3 - Ingreso al sistema de cliente.
+2018-05-23 23:15:06 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-23 23:27:17 Usuario 2 - crea carrito. 
+2018-05-24 00:13:30 Usuario: #2 - Ingreso al sistema de cliente.
+2018-05-24 00:45:10 Usuario 2 - crea carrito. 
+2018-05-24 00:45:10 Usuario 2 - crea carrito. 
+2018-05-24 00:45:10 Usuario 2 - crea carrito. 
+2018-05-24 01:01:09 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-24 13:23:24 Usuario: #1 - Ingreso al sistema de admin.
+2018-05-24 13:23:54 Usuario: #1 - Subir producto
+2018-05-24 13:23:54 Usuario: #1 - Subido producto
+2018-05-24 13:24:40 Usuario: #1 - Subir producto
+2018-05-24 13:24:40 Usuario: #1 - Subido producto
+2018-05-24 13:24:50 Usuario: #1 - Subir producto
+2018-05-24 13:24:51 Usuario: #1 - Subido producto
+2018-05-24 13:27:37 Usuario: #1 - Eliminar producto: #16
+2018-05-24 13:27:37 Usuario: #1 - Elimino producto: #16
+2018-05-24 13:28:02 Usuario: #1 - Subir producto
+2018-05-24 13:28:02 Usuario: #1 - Subido producto
+2018-05-24 13:28:12 Usuario: #1 - Subir producto
+2018-05-24 13:28:13 Usuario: #1 - Subido producto
+2018-05-24 13:28:25 Usuario: #1 - Subir producto
+2018-05-24 13:28:26 Usuario: #1 - Subido producto
+2018-05-24 13:28:36 Usuario: #1 - Subir producto
+2018-05-24 13:28:37 Usuario: #1 - Subido producto
+2018-06-01 14:49:02 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-01 14:49:29 Usuario: #1 - Subir producto
+2018-06-01 14:49:29 Usuario: #1 - Subido producto
+2018-06-01 14:50:52 Usuario: #1 - Subir producto
+2018-06-01 14:50:53 Fallo el insert a Producto.
+2018-06-01 14:51:38 Usuario: #1 - Subir producto
+2018-06-01 14:51:38 Fallo el insert a Producto.
+2018-06-01 14:53:50 Usuario: #2 - Ingreso al sistema de cliente.
+2018-06-01 15:17:43 Usuario: #2 - Ingreso al sistema de cliente.
+2018-06-01 15:18:44 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-01 15:30:51 Usuario: #2 - Ingreso al sistema de cliente.
+2018-06-01 15:31:07 Usuario 2 - crea carrito. 
+2018-06-01 15:31:07 Usuario 2 - crea carrito. 
+2018-06-01 15:31:07 Usuario 2 - crea carrito. 
+2018-06-01 15:31:07 Usuario 2 - crea carrito. 
+2018-06-01 15:31:17 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-01 15:31:33 Usuario: #2 - Ingreso al sistema de cliente.
+2018-06-01 15:31:37 El usuario: #2 ha cerrado un carrito.
+2018-06-01 15:31:44 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-01 15:31:49 Se ha actualizado libro - Producto #1 - Cantidad: -25 - Usuario: #2
+2018-06-01 15:31:49 Se ha actualizado libro - Producto #3 - Cantidad: -24 - Usuario: #2
+2018-06-01 15:31:49 Se ha actualizado libro - Producto #4 - Cantidad: -12 - Usuario: #2
+2018-06-01 15:31:49 Se ha actualizado libro - Producto #5 - Cantidad: -32 - Usuario: #2
+2018-06-01 15:32:13 Usuario: #2 - Ingreso al sistema de cliente.
+2018-06-01 15:32:22 Usuario 2 - crea carrito. 
+2018-06-01 15:32:22 Usuario 2 - crea carrito. 
+2018-06-01 15:32:22 Usuario 2 - crea carrito. 
+2018-06-01 15:32:26 El usuario: #2 ha cerrado un carrito.
+2018-06-01 15:32:45 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-01 15:32:58 Se ha actualizado libro - Producto #1 - Cantidad: -23 - Usuario: #2
+2018-06-01 15:32:59 Se ha actualizado libro - Producto #3 - Cantidad: -11 - Usuario: #2
+2018-06-01 15:32:59 Se ha actualizado libro - Producto #4 - Cantidad: --1 - Usuario: #2
+2018-06-01 16:19:21 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-01 16:20:34 Usuario: #2 - Ingreso al sistema de cliente.
+2018-06-01 16:20:54 Usuario 2 - crea carrito. 
+2018-06-01 16:20:54 Usuario 2 - crea carrito. 
+2018-06-01 16:20:54 Usuario 2 - crea carrito. 
+2018-06-01 16:39:28 Usuario 2 - crea carrito. 
+2018-06-01 16:39:28 Usuario 2 - crea carrito. 
+2018-06-01 16:39:28 Usuario 2 - crea carrito. 
+2018-06-01 16:41:14 Usuario 2 - crea carrito. 
+2018-06-01 16:41:14 Usuario 2 - crea carrito. 
+2018-06-01 16:46:49 Usuario 2 - crea carrito. 
+2018-06-01 16:46:49 Usuario 2 - crea carrito. 
+2018-06-01 16:50:54 Usuario 2 - crea carrito. 
+2018-06-01 16:50:54 Usuario 2 - crea carrito. 
+2018-06-01 16:50:54 Usuario 2 - crea carrito. 
+2018-06-01 16:51:50 Usuario 2 - crea carrito. 
+2018-06-01 16:51:50 Usuario 2 - crea carrito. 
+2018-06-01 16:51:50 Usuario 2 - crea carrito. 
+2018-06-01 17:27:23 Usuario: #2 - Ingreso al sistema de cliente.
+2018-06-01 20:37:32 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-01 20:38:58 Usuario: #2 - Ingreso al sistema de cliente.
+2018-06-01 20:52:34 Usuario: #2 - Subir producto
+2018-06-01 20:52:34 Usuario: #2 - Subido producto
+2018-06-01 20:53:34 Usuario: #2 - Ingreso al sistema de cliente.
+2018-06-01 20:53:42 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-01 21:06:51 Usuario: #2 - Ingreso al sistema de cliente.
+2018-06-01 21:07:06 El usuario: #2 ha cerrado un carrito.
+2018-06-01 21:07:14 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-01 21:41:39 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-02 11:06:30 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-02 12:07:09 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-02 13:35:52 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-02 14:08:44 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-02 14:38:31 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-02 14:58:33 Usuario 1 - actualiza carrito 0050 .
+2018-06-02 14:58:33 Usuario 1 - actualiza carrito 0050 .
+2018-06-02 14:58:33 Usuario 1 - actualiza carrito 0050 .
+2018-06-02 14:59:00 Usuario 1 - actualiza carrito 0050 .
+2018-06-02 14:59:00 Usuario 1 - actualiza carrito 0050 .
+2018-06-02 14:59:00 Usuario 1 - actualiza carrito 0050 .
+2018-06-02 15:00:01 Se ha actualizado libro - Producto #1 - Cantidad: -22 - Usuario: #2
+2018-06-02 15:00:01 Se ha actualizado libro - Producto #4 - Cantidad: -15 - Usuario: #2
+2018-06-02 15:00:01 Se ha actualizado libro - Producto #3 - Cantidad: -1 - Usuario: #2
+2018-06-02 15:07:49 Usuario: #2 - Ingreso al sistema de cliente.
+2018-06-02 15:08:01 Usuario 2 - crea carrito. 
+2018-06-02 15:08:01 Usuario 2 - crea carrito. 
+2018-06-02 15:08:01 Usuario 2 - crea carrito. 
+2018-06-02 15:08:10 El usuario: #2 ha cerrado un carrito.
+2018-06-02 15:08:22 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-02 15:09:05 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 15:09:05 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 19:54:48 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-02 19:55:08 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 19:55:08 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 19:56:01 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 19:56:01 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 19:56:12 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 19:56:12 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 19:56:20 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 19:56:20 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 19:56:49 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 19:56:49 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 19:57:56 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 19:57:56 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 19:59:05 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 19:59:05 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 19:59:20 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 19:59:20 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 20:00:15 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 20:00:15 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 20:01:46 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 20:01:46 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 20:01:54 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 20:01:54 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 20:04:54 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 20:04:54 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 20:05:57 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 20:05:57 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 20:09:54 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 20:09:54 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 20:11:10 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 20:11:10 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 20:11:17 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 20:11:17 Usuario 1 - actualiza carrito 0053 .
+2018-06-02 20:14:25 Usuario 1 - actualiza carrito  .
+2018-06-02 20:14:25 Usuario 1 - actualiza carrito  .
+2018-06-02 20:14:38 Usuario 1 - actualiza carrito  .
+2018-06-02 20:14:38 Usuario 1 - actualiza carrito  .
+2018-06-02 20:14:38 Usuario 1 - actualiza carrito  .
+2018-06-02 20:18:38 Usuario: #2 - Ingreso al sistema de cliente.
+2018-06-02 20:18:56 Usuario 2 - crea carrito. 
+2018-06-02 20:18:56 Usuario 2 - crea carrito. 
+2018-06-02 20:18:56 Usuario 2 - crea carrito. 
+2018-06-02 20:18:56 Usuario 2 - crea carrito. 
+2018-06-02 20:18:57 Usuario 2 - crea carrito. 
+2018-06-02 20:18:57 Usuario 2 - crea carrito. 
+2018-06-02 20:19:05 Usuario: #3 - Ingreso al sistema de cliente.
+2018-06-02 20:19:17 Usuario 3 - crea carrito. 
+2018-06-02 20:19:17 Usuario 3 - crea carrito. 
+2018-06-02 20:19:17 Usuario 3 - crea carrito. 
+2018-06-02 20:19:18 Usuario 3 - crea carrito. 
+2018-06-02 20:19:26 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-02 20:20:04 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-02 20:29:12 Usuario: #2 - Ingreso al sistema de cliente.
+2018-06-02 20:29:27 Usuario 2 - crea carrito. 
+2018-06-02 20:29:27 Usuario 2 - crea carrito. 
+2018-06-02 20:29:27 Usuario 2 - crea carrito. 
+2018-06-02 20:29:27 Usuario 2 - crea carrito. 
+2018-06-02 20:29:27 Usuario 2 - crea carrito. 
+2018-06-02 20:29:27 Usuario 2 - crea carrito. 
+2018-06-02 20:29:27 Usuario 2 - crea carrito. 
+2018-06-02 20:29:32 El usuario: #2 ha cerrado un carrito.
+2018-06-02 20:29:40 Usuario: #3 - Ingreso al sistema de cliente.
+2018-06-02 20:29:52 Usuario 3 - crea carrito. 
+2018-06-02 20:29:52 Usuario 3 - crea carrito. 
+2018-06-02 20:29:52 Usuario 3 - crea carrito. 
+2018-06-02 20:29:52 Usuario 3 - crea carrito. 
+2018-06-02 20:29:58 El usuario: #3 ha cerrado un carrito.
+2018-06-02 20:30:06 Usuario 3 - crea carrito. 
+2018-06-02 20:30:06 Usuario 3 - crea carrito. 
+2018-06-02 20:30:15 El usuario: #3 ha cerrado un carrito.
+2018-06-02 20:30:22 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-02 20:56:53 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-02 20:57:32 Se ha actualizado libro - Producto #1 - Cantidad: -24 - Usuario: #2
+2018-06-02 20:57:32 Se ha actualizado libro - Producto #4 - Cantidad: -55 - Usuario: #2
+2018-06-02 20:57:32 Se ha actualizado libro - Producto #3 - Cantidad: -33 - Usuario: #2
+2018-06-02 20:57:32 Se ha actualizado libro - Producto #7 - Cantidad: -4 - Usuario: #2
+2018-06-02 20:57:32 Se ha actualizado libro - Producto #5 - Cantidad: -58 - Usuario: #2
+2018-06-02 20:57:33 Se ha actualizado libro - Producto #8 - Cantidad: -44 - Usuario: #2
+2018-06-02 20:57:33 Se ha actualizado libro - Producto #6 - Cantidad: -12 - Usuario: #2
+2018-06-02 21:00:45 Usuario: #2 - Ingreso al sistema de cliente.
+2018-06-02 21:00:55 Usuario 2 - crea carrito. 
+2018-06-02 21:00:55 Usuario 2 - crea carrito. 
+2018-06-02 21:00:56 Usuario 2 - crea carrito. 
+2018-06-02 21:00:56 Usuario 2 - crea carrito. 
+2018-06-02 21:01:00 El usuario: #2 ha cerrado un carrito.
+2018-06-02 21:01:07 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-02 21:01:15 Se ha actualizado libro - Producto #3 - Cantidad: -44 - Usuario: #2
+2018-06-02 21:01:15 Se ha actualizado libro - Producto #4 - Cantidad: -12 - Usuario: #2
+2018-06-02 21:01:16 Se ha actualizado libro - Producto #5 - Cantidad: -12 - Usuario: #2
+2018-06-02 21:01:16 Se ha actualizado libro - Producto #1 - Cantidad: -22 - Usuario: #2
+2018-06-02 21:15:06 Usuario: #1 - Subir producto
+2018-06-02 21:15:06 Fallo el insert a Producto.
+2018-06-02 21:16:39 Usuario: #1 - Subir producto
+2018-06-02 21:16:40 Usuario: #1 - Subido producto
+2018-06-02 21:16:47 Usuario: #1 - Eliminar producto: #19
+2018-06-02 21:16:47 Usuario: #1 - Elimino producto: #19
+2018-06-02 21:17:40 Usuario: #1 - Subir producto
+2018-06-02 21:17:40 Fallo el insert a Producto.
+2018-06-02 21:23:20 Usuario: #1 - Subir producto
+2018-06-02 21:23:20 Fallo el insert a Producto.
+2018-06-02 21:26:42 Usuario: #1 - Subir producto
+2018-06-02 21:26:42 Fallo el insert a Producto.
+2018-06-02 21:27:24 Usuario: #1 - Subir producto
+2018-06-02 21:27:25 Usuario: #1 - Subido producto
+2018-06-02 21:29:53 Usuario: #1 - Subir producto
+2018-06-02 21:29:53 Fallo el insert a Producto.
+2018-06-02 21:31:38 Usuario: #1 - Subir producto
+2018-06-02 21:31:39 Usuario: #1 - Subido producto
+2018-06-02 21:48:29 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-05 12:52:44 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-05 12:52:53 Usuario: #2 - Ingreso al sistema de cliente.
+2018-06-06 09:04:16 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-06 09:04:49 Usuario: #1 - Subir producto
+2018-06-06 09:04:49 Usuario: #1 - Subido producto
+2018-06-06 09:08:25 Usuario: #1 - Subir producto
+2018-06-06 09:08:25 Usuario: #1 - Subido producto
+2018-06-06 09:08:51 Usuario: #1 - Subir producto
+2018-06-06 09:08:51 Usuario: #1 - Subido producto
+2018-06-06 09:09:50 Usuario: #1 - Subir producto
+2018-06-06 09:09:51 Usuario: #1 - Subido producto
+2018-06-06 10:03:25 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-06 10:05:13 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-06 11:03:42 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-06 11:16:28 Se ha actualizado libro - Producto #6 - Cantidad: -200 - Usuario: #1
+2018-06-06 11:18:27 Se ha actualizado libro - Producto #6 - Cantidad: -2 - Usuario: #1
+2018-06-06 11:18:27 Se ha actualizado libro - Producto #23 - Cantidad: -23 - Usuario: #1
+2018-06-06 16:36:53 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-09 16:03:24 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-09 16:35:20 Se ha actualizado libro - Producto #5 - Cantidad: -12 - Usuario: #1
+2018-06-09 16:35:20 Se ha actualizado libro - Producto #6 - Cantidad: -22 - Usuario: #1
+2018-06-09 17:03:53 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-09 17:21:13 Usuario: #1 - Subir producto
+2018-06-09 17:21:13 Usuario: #1 - Subido producto
+2018-06-09 17:21:36 Usuario: #1 - Subir producto
+2018-06-09 17:21:37 Usuario: #1 - Subido producto
+2018-06-09 19:47:59 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-10 18:28:25 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-10 18:32:12 Usuario: #2 - Ingreso al sistema de cliente.
+2018-06-10 18:41:31 Usuario: #1 - Subir producto
+2018-06-10 18:41:31 Usuario: #1 - Subido producto
+2018-06-10 18:49:37 Usuario 2 - crea carrito. 
+2018-06-10 18:49:37 Usuario 2 - crea carrito. 
+2018-06-10 18:49:37 Usuario 2 - crea carrito. 
+2018-06-10 18:49:43 El usuario: #2 ha cerrado un carrito.
+2018-06-10 18:50:43 Usuario 2 - crea carrito. 
+2018-06-10 18:50:43 Usuario 2 - crea carrito. 
+2018-06-10 18:53:08 El usuario: #2 ha cerrado un carrito.
+2018-06-10 19:29:24 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-10 19:46:28 Usuario: #3 - Ingreso al sistema de cliente.
+2018-06-10 19:46:41 Usuario 3 - crea carrito. 
+2018-06-10 19:46:41 Usuario 3 - crea carrito. 
+2018-06-10 19:46:41 Usuario 3 - crea carrito. 
+2018-06-10 19:46:41 Usuario 3 - crea carrito. 
+2018-06-10 19:46:45 El usuario: #3 ha cerrado un carrito.
+2018-06-10 19:59:07 Se ha actualizado libro - Producto #1 - Cantidad: -4 - Usuario: #2
+2018-06-10 19:59:07 Se ha actualizado libro - Producto #3 - Cantidad: -3 - Usuario: #2
+2018-06-10 19:59:22 Se ha actualizado libro - Producto #1 - Cantidad: -3 - Usuario: #3
+2018-06-10 19:59:22 Se ha actualizado libro - Producto #12 - Cantidad: -11 - Usuario: #3
+2018-06-10 19:59:22 Se ha actualizado libro - Producto #3 - Cantidad: -5 - Usuario: #3
+2018-06-10 19:59:22 Se ha actualizado libro - Producto #11 - Cantidad: -3 - Usuario: #3
+2018-06-10 20:06:27 Se ha actualizado libro - Producto #4 - Cantidad: -1 - Usuario: #1
+2018-06-10 20:07:16 Se ha actualizado libro - Producto #5 - Cantidad: -22 - Usuario: #1
+2018-06-10 20:07:16 Se ha actualizado libro - Producto #4 - Cantidad: -33 - Usuario: #1
+2018-06-10 20:10:05 Se ha actualizado libro - Producto #5 - Cantidad: -2 - Usuario: #3
+2018-06-10 20:10:05 Se ha actualizado libro - Producto #3 - Cantidad: -1 - Usuario: #3
+2018-06-10 20:16:57 Se ha actualizado libro - Producto #6 - Cantidad: -2 - Usuario: #3
+2018-06-10 20:20:48 Usuario 3 - crea carrito. 
+2018-06-10 20:21:01 Usuario 3 - crea carrito. 
+2018-06-10 20:21:13 Usuario 3 - crea carrito. 
+2018-06-10 20:21:20 El usuario: #3 ha cerrado un carrito.
+2018-06-10 20:21:31 Se ha actualizado libro - Producto #4 - Cantidad: -52 - Usuario: #3
+2018-06-10 20:21:32 Se ha actualizado libro - Producto #5 - Cantidad: -66 - Usuario: #3
+2018-06-10 20:21:32 Se ha actualizado libro - Producto #6 - Cantidad: -91 - Usuario: #3
+2018-06-10 20:21:50 Se ha actualizado libro - Producto #5 - Cantidad: -22 - Usuario: #3
+2018-06-10 20:21:50 Se ha actualizado libro - Producto #6 - Cantidad: -22 - Usuario: #3
+2018-06-10 20:21:50 Se ha actualizado libro - Producto #4 - Cantidad: -11 - Usuario: #3
+2018-06-10 20:46:40 Usuario: #3 - Ingreso al sistema de cliente.
+2018-06-10 21:24:10 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-23 09:53:13 Usuario: #2 - Ingreso al sistema de cliente.
+2018-06-23 09:54:14 Usuario 2 - crea carrito. 
+2018-06-23 09:54:14 Usuario 2 - crea carrito. 
+2018-06-23 09:54:14 Usuario 2 - crea carrito. 
+2018-06-23 09:54:58 El usuario: #2 ha cerrado un carrito.
+2018-06-23 09:55:08 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-23 09:55:22 Se ha actualizado libro - Producto #1 - Cantidad: -15 - Usuario: #2
+2018-06-23 09:55:23 Se ha actualizado libro - Producto #11 - Cantidad: -12 - Usuario: #2
+2018-06-23 09:55:23 Se ha actualizado libro - Producto #3 - Cantidad: -6 - Usuario: #2
+2018-06-23 10:09:12 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-23 10:21:25 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-23 10:21:40 Usuario: #2 - Ingreso al sistema de cliente.
+2018-06-23 10:21:50 Usuario 2 - crea carrito. 
+2018-06-23 10:21:50 Usuario 2 - crea carrito. 
+2018-06-23 10:21:50 Usuario 2 - crea carrito. 
+2018-06-23 10:21:54 El usuario: #2 ha cerrado un carrito.
+2018-06-23 10:22:49 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-23 10:25:11 Usuario 1 - actualiza carrito  .
+2018-06-23 10:25:11 Usuario 1 - actualiza carrito  .
+2018-06-23 10:25:11 Usuario 1 - actualiza carrito  .
+2018-06-23 10:34:05 Usuario 1 - actualiza carrito  .
+2018-06-23 10:34:05 Usuario 1 - actualiza carrito  .
+2018-06-23 10:34:05 Usuario 1 - actualiza carrito  .
+2018-06-23 10:38:58 Usuario 1 - actualiza carrito 1 .
+2018-06-23 10:38:58 Usuario 1 - actualiza carrito 1 .
+2018-06-23 10:38:58 Usuario 1 - actualiza carrito 1 .
+2018-06-23 10:41:09 Usuario 1 - actualiza carrito 0001 .
+2018-06-23 10:41:09 Usuario 1 - actualiza carrito 0001 .
+2018-06-23 10:41:09 Usuario 1 - actualiza carrito 0001 .
+2018-06-23 10:41:14 Usuario 1 - actualiza carrito 0001 .
+2018-06-23 10:41:14 Usuario 1 - actualiza carrito 0001 .
+2018-06-23 10:41:23 Usuario 1 - actualiza carrito 0001 .
+2018-06-23 10:41:23 Usuario 1 - actualiza carrito 0001 .
+2018-06-23 10:41:26 Se ha actualizado libro - Producto #1 - Cantidad: -12 - Usuario: #2
+2018-06-23 10:41:26 Se ha actualizado libro - Producto #3 - Cantidad: -22 - Usuario: #2
+2018-06-23 11:13:55 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-23 11:14:13 Usuario: #2 - Ingreso al sistema de cliente.
+2018-06-23 11:14:25 Usuario 2 - crea carrito. 
+2018-06-23 11:14:25 Usuario 2 - crea carrito. 
+2018-06-23 11:14:25 Usuario 2 - crea carrito. 
+2018-06-23 11:14:30 El usuario: #2 ha cerrado un carrito.
+2018-06-23 11:14:40 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-23 11:20:36 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-23 11:26:51 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-23 12:14:39 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-23 12:54:23 Usuario: #2 - Ingreso al sistema de cliente.
+2018-06-23 12:54:31 Usuario 2 - crea carrito. 
+2018-06-23 12:54:31 Usuario 2 - crea carrito. 
+2018-06-23 12:55:29 Usuario 2 - crea carrito. 
+2018-06-23 12:55:42 El usuario: #2 ha cerrado un carrito.
+2018-06-23 12:55:56 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-23 12:56:13 Usuario: #2 - Ingreso al sistema de cliente.
+2018-06-23 12:56:23 Usuario 2 - crea carrito. 
+2018-06-23 12:56:23 Usuario 2 - crea carrito. 
+2018-06-23 12:56:23 Usuario 2 - crea carrito. 
+2018-06-23 12:57:50 Usuario 2 - crea carrito. 
+2018-06-23 12:57:50 Usuario 2 - crea carrito. 
+2018-06-23 12:58:32 Usuario 2 - crea carrito. 
+2018-06-23 12:58:32 Usuario 2 - crea carrito. 
+2018-06-23 12:58:32 Usuario 2 - crea carrito. 
+2018-06-23 12:58:48 El usuario: #2 ha cerrado un carrito.
+2018-06-23 12:58:55 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-23 13:05:12 Usuario: #3 - Ingreso al sistema de cliente.
+2018-06-23 13:05:20 Usuario 3 - crea carrito. 
+2018-06-23 13:05:20 Usuario 3 - crea carrito. 
+2018-06-23 13:05:21 Usuario 3 - crea carrito. 
+2018-06-23 13:05:26 El usuario: #3 ha cerrado un carrito.
+2018-06-23 13:05:40 Usuario: #3 - Ingreso al sistema de cliente.
+2018-06-23 13:05:48 Usuario 3 - crea carrito. 
+2018-06-23 13:05:48 Usuario 3 - crea carrito. 
+2018-06-23 13:05:48 Usuario 3 - crea carrito. 
+2018-06-23 13:06:31 Usuario 3 - crea carrito. 
+2018-06-23 13:06:31 Usuario 3 - crea carrito. 
+2018-06-23 13:06:31 Usuario 3 - crea carrito. 
+2018-06-23 13:06:53 El usuario: #3 ha cerrado un carrito.
+2018-06-23 13:08:28 Usuario 3 - crea carrito. 
+2018-06-23 13:08:28 Usuario 3 - crea carrito. 
+2018-06-23 13:08:28 Usuario 3 - crea carrito. 
+2018-06-23 13:08:28 Usuario 3 - crea carrito. 
+2018-06-23 13:15:22 El usuario: #3 ha cerrado un carrito.
+2018-06-23 13:15:31 Usuario 3 - crea carrito. 
+2018-06-23 13:15:31 Usuario 3 - crea carrito. 
+2018-06-23 13:15:31 Usuario 3 - crea carrito. 
+2018-06-23 13:18:02 Usuario: #3 - Ingreso al sistema de cliente.
+2018-06-23 13:18:14 Usuario: #2 - Ingreso al sistema de cliente.
+2018-06-23 13:18:23 Usuario 2 - crea carrito. 
+2018-06-23 13:18:23 Usuario 2 - crea carrito. 
+2018-06-23 13:18:23 Usuario 2 - crea carrito. 
+2018-06-23 13:26:21 Usuario 2 - crea carrito. 
+2018-06-23 13:26:21 Usuario 2 - crea carrito. 
+2018-06-23 13:26:21 Usuario 2 - crea carrito. 
+2018-06-23 13:26:39 Usuario: #3 - Ingreso al sistema de cliente.
+2018-06-23 13:27:17 Usuario: #2 - Ingreso al sistema de cliente.
+2018-06-23 13:27:33 Usuario: #3 - Ingreso al sistema de cliente.
+2018-06-23 13:28:28 El usuario: #2 ha cerrado un carrito.
+2018-06-23 13:28:31 El usuario: #3 ha cerrado un carrito.
+2018-06-23 13:28:40 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-23 13:48:06 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-23 14:33:41 Usuario: #2 - Ingreso al sistema de cliente.
+2018-06-23 14:33:59 El usuario 2 se ha actualizado el producto 1. Cantidad #31 - Stock minimo: #0 - Precio venta: $300
+2018-06-23 14:34:10 El usuario 2 se ha actualizado el producto 3. Cantidad #31 - Stock minimo: #0 - Precio venta: $500
+2018-06-23 14:34:16 El usuario 2 se ha actualizado el producto 11. Cantidad #12 - Stock minimo: #0 - Precio venta: $23
+2018-06-23 14:40:29 Usuario 2 - crea carrito. 
+2018-06-23 14:40:44 Usuario 2 - crea carrito. 
+2018-06-23 14:40:56 Usuario 2 - crea carrito. 
+2018-06-23 14:41:30 Usuario 2 - crea carrito. 
+2018-06-23 14:47:57 Usuario: #2 - Ingreso al sistema de cliente.
+2018-06-24 16:39:24 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-24 16:52:37 Usuario: #2 - Ingreso al sistema de cliente.
+2018-06-24 17:49:24 Usuario: #2 - Ingreso al sistema de cliente.
+2018-06-24 18:25:13 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-26 13:46:00 Usuario: #2 - Ingreso al sistema de cliente.
+2018-06-26 13:56:07 Se ha actualizado libro - Producto #6 - Cantidad: -1 - Usuario: #2
+2018-06-26 13:57:59 Se ha actualizado libro - Producto #6 - Cantidad: -1 - Usuario: #2
+2018-06-26 14:00:09 Se ha actualizado libro - Producto #6 - Cantidad: -1 - Usuario: #2
+2018-06-26 14:00:49 Se ha actualizado libro - Producto #5 - Cantidad: -2 - Usuario: #2
+2018-06-26 14:00:49 Se ha actualizado libro - Producto #6 - Cantidad: -2 - Usuario: #2
+2018-06-26 14:00:49 Se ha actualizado libro - Producto #8 - Cantidad: -2 - Usuario: #2
+2018-06-26 21:49:21 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-26 21:50:38 Usuario: #2 - Ingreso al sistema de cliente.
+2018-06-26 21:58:29 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-27 17:56:22 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-28 16:59:29 Usuario: #2 - Ingreso al sistema de cliente.
+2018-06-28 17:05:05 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-28 17:06:56 Usuario: #3 - Ingreso al sistema de cliente.
+2018-06-28 17:07:08 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-28 20:23:37 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-28 20:24:14 Se ha actualizado libro - Producto #1 - Cantidad: -6 - Usuario: #1
+2018-06-28 20:25:29 Se ha actualizado libro - Producto #1 - Cantidad: -10 - Usuario: #1
+2018-06-28 20:25:53 Usuario: #1 - Subir producto
+2018-06-28 20:25:54 Usuario: #1 - Subido producto
+2018-06-28 20:26:19 Usuario 1 - crea carrito. 
+2018-06-28 20:26:19 Usuario 1 - crea carrito. 
+2018-06-28 20:32:54 Usuario: #1 - Subir producto
+2018-06-28 20:32:55 Usuario: #1 - Subido producto
+2018-06-28 20:33:33 Se ha actualizado libro - Producto #23 - Cantidad: -200 - Usuario: #1
+2018-06-28 20:37:27 Se ha actualizado libro - Producto #23 - Cantidad: -100 - Usuario: #1
+2018-06-28 20:38:27 Se ha actualizado libro - Producto #23 - Cantidad: -2 - Usuario: #1
+2018-06-28 20:40:45 Se ha actualizado libro - Producto #8 - Cantidad: -2 - Usuario: #1
+2018-06-28 20:42:27 Se ha actualizado libro - Producto #18 - Cantidad: -22 - Usuario: #1
+2018-06-28 21:21:49 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-28 22:24:09 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-29 15:30:00 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-29 16:49:08 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-29 19:48:35 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-29 20:38:22 Usuario: #1 - Ingreso al sistema de admin.
+2018-06-29 20:50:53 Usuario: #1 - Ingreso al sistema de admin.
